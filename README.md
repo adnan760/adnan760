@@ -1,6 +1,6 @@
 [![MasterHead](https://www.assignmentexpert.com/blog/wp-content/uploads/2019/10/hardest-programming-language.png)](https://adnan760.io)
 <h1 align="center">Hi 👋, I'm Adnan Wagle</h1>
-<h3 align="center">A passionate Full Stack Web Developer</h3>
+<h3 align="center">A Passionate Full Stack Web Developer</h3>
 
 <img align="right" alt="Coding" width="400" src="https://blog.unboxinnovations.com/wp-content/uploads/2020/01/home-gif.gif">
 
