@@ -1,4 +1,4 @@
-[![MasterHead](https://techinsider.paloaltonetworks.com/wp-content/uploads/2021/07/inside-IT.png)](https://adnan760.io)
+[![MasterHead](https://www.assignmentexpert.com/blog/wp-content/uploads/2019/10/hardest-programming-language.png)](https://adnan760.io)
 <h1 align="center">Hi 👋, I'm Adnan Wagle</h1>
 <h3 align="center">A passionate Full Stack Web Developer</h3>
 
