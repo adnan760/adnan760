@@ -4,9 +4,9 @@
 
 <img align="right" alt="Coding" width="400" src="https://blog.unboxinnovations.com/wp-content/uploads/2020/01/home-gif.gif">
 
-- 🔭 I’m currently working on **Deep Learning Project**
+- 🔭 I’m currently working on **Data Analysis Projects**
 
-- 🌱 I’m currently learning **Deep Learning, Data Analysis**
+- 🌱 I’m currently learning **Data Analytics**
 
 - 📫 How to reach me **adnanwagle@gmail.com**
 
