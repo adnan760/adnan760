@@ -1,7 +1,7 @@
 [![MasterHead](https://www.assignmentexpert.com/blog/wp-content/uploads/2019/10/hardest-programming-language.png)](https://adnan760.io)
 <h1 align="center">Hi 👋, I'm Adnan Wagle</h1>
 
-<img align="right" alt="Coding" width="350" src="https://www.cymorg.com/assets/images/exp03.gif">
+<img align="right" alt="Coding" width="300" src="https://www.cymorg.com/assets/images/exp03.gif">
 
 <h3 align="left">About me:</h3>
 
