@@ -5,7 +5,7 @@
 
 <h3 align="left">About me:</h3>
 
-<p align="left">I'm all about diving into the world of data. I enjoy digging deep into data, cleaning it up, and turning it into something insightful and visually engaging. Whether it's SQL databases like PostgreSQL or MongoDB for NoSQL, I love tinkering with data systems and exploring cloud technologies. Beyond that, I enjoy exploring the world of web development, especially with Python's Django framework.
+<p align="left">I'm all about diving into the world of data. I enjoy digging deep into data, cleaning it up, and turning it into something insightful and visually engaging. I love tinkering with data systems and exploring emerging technologies. Beyond that, I enjoy exploring the world of web development.
 
 My goal? To bring my passion for tech into the development and data fields. I'm all about continuous learning, keeping my skills sharp and ready for whatever the tech world throws my way!</p>
 
